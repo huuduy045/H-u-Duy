@@ -1,0 +1,5 @@
+print("Tính tổng 3 số nguyên")
+a=int(input("Số nguyên thứ 1:"))
+b=int(input("Số nguyên thứ 2:"))
+c=int(input("Số nguyên thứ 3:"))
+print("Tổng của 3 số nguyên là:",a+b+c)
